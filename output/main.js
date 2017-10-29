@@ -1,0 +1,1 @@
+function Add(n,o){return n+o}function DoNothing(){console.log("Executing DoNothing function")}
